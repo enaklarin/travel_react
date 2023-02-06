@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 
-![screenshot](/travel-react/screenshot/trvl.png?raw=true "Screenshot TRVL")
+![screenshot](/screenshot/trvl.png?raw=true "Screenshot TRVL")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
